@@ -1,0 +1,33 @@
+{
+  "name": "ExpenseTracker",
+    "short_name": "ExpenseTracker",
+    "theme_color": "white",
+    "background_color": "white",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+  
+  "icons": [
+  {
+    "src":"logo(192).png",
+    "size":"256x256",
+    "type":"img/png"
+  },
+  {
+    "src":"logo(192).png",
+    "size":"192x192",
+    "type":"img/png"
+  },
+  {
+    "src":"logo(384).png",
+    "size":"384x384",
+    "type":"img/png"
+  },
+  {
+  "src":"logo(512).png",
+  "size":"512x512",
+  "type":"img/png"
+}
+  ]
+ 
+}
